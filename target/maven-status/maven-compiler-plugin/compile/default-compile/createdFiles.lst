@@ -1,0 +1,4 @@
+br/com/codexperience/web/PersonController.class
+br/com/codexperience/Application.class
+br/com/codexperience/aspect/PersonAspect.class
+br/com/codexperience/domain/Person.class
